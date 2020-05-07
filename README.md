@@ -1,2 +1,2 @@
 # python-practice
-Brushing up on algorithms in Python
+Re-learning Python by completing algorithm problems.
